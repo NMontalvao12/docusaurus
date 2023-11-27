@@ -1,3 +1,3 @@
-# Nova_página
+# Nova página
 
-uma página com o nome 'teste.md'
+uma página com o nome `teste.md`
