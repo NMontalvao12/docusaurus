@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Troca de penus',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/feature_list_1.svg').default,
     description: (
       <>
         Com o nosso serviço de troca de peneus voce pode sair com penues novos em menos de 30 minutos!
