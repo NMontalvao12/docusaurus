@@ -23,8 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/feature_list_2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Com o nosso serviço de troca de oleo e filtros voce pode manter o seu carro nas melhores condiçoes!
       </>
     ),
   },
